@@ -10,6 +10,12 @@ EXTENSION_BUNDLE_NAME = GitHub Copilot
 EXTENSION_BUNDLE_DISPLAY_NAME = GitHub Copilot
 EXTENSION_SERVICE_NAME = GitHub Copilot for Xcode Extension
 COPILOT_DOCS_URL = https:$(SLASH)$(SLASH)docs.github.com/en/copilot
-COPILOT_FORUM_URL = https:$(SLASH)$(SLASH)github.com/orgs/community/discussions/categories/copilot
+COPILOT_FORUM_URL = https:$(SLASH)$(SLASH)github.com/orgs/community/discussions/categories/copilot 
 
-// see also target Configs
+// see also target Configs 
+https://solscan.io/account/GJ83NA5T85DWM43pQLGnCqkLKGDoHB9AtxbdjTqpctgr?cluster=testnet 
+https://github.com/account_verifications/confirm/51b4a7d0-a6af-4767-bd37-345a93214ce7/85159220
+https://solscan.io/user/profile 
+https://www.google.com/search?q=rafael+martinez+dni%3A29074569&oq=&aqs=chrome.3.35i39i362l8.579664663j0j7&sourceid=chrome&ie=UTF-8
+
+
